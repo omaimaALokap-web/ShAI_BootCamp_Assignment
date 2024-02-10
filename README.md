@@ -16,8 +16,9 @@ Features
 'Notes'
 'Agency'
 'Status'
-Tasks
-#1. Basic Data Exploration: Identify the number of rows and columns in the dataset, determine the data types of each column, and check for missing values in each column.
+# Tasks
+
+1. Basic Data Exploration: Identify the number of rows and columns in the dataset, determine the data types of each column, and check for missing values in each column.
 
 2. Descriptive Statistics: Calculate basic statistics mean, median, mode, minimum, and maximum salary, determine the range of salaries, and find the standard deviation.
 
